@@ -1,4 +1,38 @@
 # SQL--Consumer-Goods-Analytics
+# AtliQ Hardwares - Consumer Goods Data Analytics Project Using SQL
+Welcome to the AtliQ Hardwares Consumer Goods Analytics Project. This repository showcases the SQL-based solutions developed as part of the Consumer Goods module in the Data Analytics Bootcamp by Codebasics.
+
+# 📊 Project Overview
+This project centers around data analysis within the consumer goods sector for AtliQ Hardwares—a globally recognized company known for its product offerings such as PCs, printers, mice, and other computing devices. The primary aim is to solve ten targeted ad hoc business requests using SQL, enabling the extraction of actionable insights and trends from the data.
+
+# 🔍 Scope of Work
+Through a series of structured SQL queries, this project explores a rich dataset to provide business-critical information. The analysis helps uncover patterns, track performance, and offer data-backed recommendations across multiple business functions.
+
+# 📁 Dataset Summary
+The dataset represents various elements of AtliQ Hardwares' operations, with a strong focus on sales performance, inventory tracking, and product-level metrics. It forms the foundation for all analytical queries performed in this project.
+
+# 🎯 Project Goals
+Develop SQL queries to answer ten specific ad hoc business questions.
+
+Analyze sales trends, inventory movements, and performance indicators.
+
+Deliver key insights to support strategic decision-making within the consumer goods space.
+
+# 📌 Highlights & Insights
+Growth in Product Portfolio: A marked increase in unique products was observed, rising from 245 in 2020 to 334 in 2021.
+
+Dominant Segment - Notebooks: The "Notebook" product segment leads with 129 unique offerings, making it the most extensive category.
+
+Expansion in Accessories: The "Accessories" segment grew significantly, adding 34 new products in 2021 compared to the previous year.
+
+Top Retailer - Flipkart: Among all retailers, Flipkart offered the highest average pre-invoice discount at 30.83%.
+
+Recovery in Sales: After a slump in March and April of FY 2020, there was a notable improvement in the corresponding months of FY 2021.
+
+Retailer Channel Dominance: The retailer sales channel accounted for 73.22% of gross sales, highlighting its critical role in revenue generation.
+
+# Reository Contents: 
+SQL Files: The SQL queries for each of the ten ad hoc requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer the specific questions.
 
 ![Image](https://github.com/user-attachments/assets/3c08ebc7-ef30-4343-8f59-b7b2d14f8408)
 ![Image](https://github.com/user-attachments/assets/5a3210c8-f6ea-42bb-b2bb-5daa70032a60)
@@ -29,3 +63,7 @@
 ![Image](https://github.com/user-attachments/assets/7bbb243c-35c1-45b7-bd48-95ea9ecdb837)
 ![Image](https://github.com/user-attachments/assets/77ce8793-198e-46ab-afd0-d20f6b1433e6)
 ![Image](https://github.com/user-attachments/assets/d8c6324f-39d8-4c46-97da-e830a8530a7b)
+
+
+# About Codebasics Data Analytics Bootcamp
+This project is part of the Data Analytics Bootcamp curriculum at Codebasics. The bootcamp equips participants with essential skills and techniques in data analytics, covering various domains and real-world applications.
