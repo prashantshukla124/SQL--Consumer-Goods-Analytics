@@ -32,7 +32,7 @@ Recovery in Sales: After a slump in March and April of FY 2020, there was a nota
 Retailer Channel Dominance: The retailer sales channel accounted for 73.22% of gross sales, highlighting its critical role in revenue generation.
 
 # Reository Contents: 
-SQL Files: The SQL queries for each of the ten ad hoc requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer the specific questions.
+SQL Files: The SQL queries for each of the ten ad hoc requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer the specific questions.  [SQL_QUERIES.pdf](https://github.com/prashantshukla124/SQL--Consumer-Goods-Analytics/blob/main/SQL_QUERIES%20(1).pdf)
 
 ![Image](https://github.com/user-attachments/assets/3c08ebc7-ef30-4343-8f59-b7b2d14f8408)
 ![Image](https://github.com/user-attachments/assets/5a3210c8-f6ea-42bb-b2bb-5daa70032a60)
